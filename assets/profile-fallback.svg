@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1400" viewBox="0 0 1200 1400" role="img" aria-labelledby="title desc">
+  <title id="title">윤정혜 대표 프로필 대체 이미지</title>
+  <desc id="desc">프로필 사진 파일이 없을 때 표시되는 윤정혜 대표 이니셜 이미지</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#dfe9df"/>
+      <stop offset="0.55" stop-color="#fffaf1"/>
+      <stop offset="1" stop-color="#e6c8aa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1400" fill="url(#bg)"/>
+  <circle cx="600" cy="460" r="178" fill="#27665a" opacity="0.18"/>
+  <circle cx="600" cy="430" r="112" fill="#27665a" opacity="0.78"/>
+  <path d="M300 1020c48-204 162-306 300-306s252 102 300 306" fill="#27665a" opacity="0.78"/>
+  <text x="600" y="1220" text-anchor="middle" font-family="Arial, sans-serif" font-size="96" font-weight="800" fill="#1f2b27">윤정혜</text>
+</svg>
